@@ -1,0 +1,76 @@
+{
+  "name": "OmniFarmhouse",
+  "tagline": "Fresh Hydroponic Vegetables, Powered by Technology.",
+  "description": "OmniFarmhouse combines modern hydroponic farming with technology, sustainability, and data-driven agriculture to produce cleaner and healthier food.",
+  "mission": "Our mission is to redefine food production in Africa by using innovation, automation, and data-driven agriculture.",
+  "contact": {
+    "phone": "+234 800 000 0000",
+    "email": "hello@omnifarmhouse.com",
+    "address": "Lekki, Lagos, Nigeria",
+    "workingHours": "Mon - Sat, 8:00 AM - 6:00 PM"
+  },
+  "socials": [
+    {
+      "name": "Instagram",
+      "url": "https://instagram.com",
+      "handle": "@omnifarmhouse"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://linkedin.com",
+      "handle": "OmniFarmhouse"
+    },
+    { "name": "X", "url": "https://x.com", "handle": "@omnifarmhouse" }
+  ],
+  "hydroponicBenefits": [
+    {
+      "title": "Uses up to 90% Less Water",
+      "description": "Hydroponics recirculates water efficiently, reducing waste compared with traditional farming."
+    },
+    {
+      "title": "Cleaner Produce",
+      "description": "Soil-free environments reduce contamination and support fresher, cleaner harvests."
+    },
+    {
+      "title": "Reduced Pesticide Usage",
+      "description": "Controlled indoor systems lower pest pressure and reduce dependency on heavy pesticides."
+    },
+    {
+      "title": "Year-round Production",
+      "description": "Climate-aware cultivation enables stable crop growth throughout the year."
+    }
+  ],
+  "technologyFeatures": [
+    {
+      "title": "NFT Hydroponic System",
+      "description": "Nutrient Film Technique channels nutrients directly to roots for efficient growth."
+    },
+    {
+      "title": "EC Monitoring",
+      "description": "Electrical conductivity tracking ensures optimal nutrient concentration."
+    },
+    {
+      "title": "pH Monitoring",
+      "description": "Consistent pH control supports healthier plant uptake and performance."
+    },
+    {
+      "title": "Water Recycling",
+      "description": "Closed-loop systems recapture and reuse water to minimize wastage."
+    },
+    {
+      "title": "Solar Energy",
+      "description": "Energy-aware systems integrate solar power for sustainable operations."
+    },
+    {
+      "title": "AI & Automation",
+      "description": "Smart automation for predictive decisions and precision control.",
+      "comingSoon": true
+    }
+  ],
+  "sustainabilityBenefits": [
+    "Reduced water consumption",
+    "Local food production",
+    "Reduced transport footprint",
+    "Sustainable growing methods"
+  ]
+}

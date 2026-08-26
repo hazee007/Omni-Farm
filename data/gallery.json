@@ -1,0 +1,38 @@
+[
+  {
+    "id": "seedlings",
+    "title": "Seedlings",
+    "image": "/images/gallery-seedlings.svg",
+    "alt": "Hydroponic seedlings in nursery trays"
+  },
+  {
+    "id": "nft-system",
+    "title": "NFT System",
+    "image": "/images/gallery-nft.svg",
+    "alt": "NFT hydroponic channels in a greenhouse"
+  },
+  {
+    "id": "tomatoes",
+    "title": "Tomatoes",
+    "image": "/images/gallery-tomatoes.svg",
+    "alt": "Hydroponic tomato plants growing on trellises"
+  },
+  {
+    "id": "lettuce",
+    "title": "Lettuce",
+    "image": "/images/gallery-lettuce.svg",
+    "alt": "Rows of fresh hydroponic lettuce"
+  },
+  {
+    "id": "hydroponic-setup",
+    "title": "Hydroponic Setup",
+    "image": "/images/gallery-setup.svg",
+    "alt": "Modern hydroponic cultivation setup"
+  },
+  {
+    "id": "harvest",
+    "title": "Harvest",
+    "image": "/images/gallery-harvest.svg",
+    "alt": "Fresh produce harvested from hydroponic farm"
+  }
+]

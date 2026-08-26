@@ -1,0 +1,23 @@
+[
+  {
+    "id": "lettuce",
+    "name": "Fresh Lettuce",
+    "description": "Crisp, nutrient-rich lettuce grown in controlled hydroponic systems for consistent quality.",
+    "image": "/images/product-lettuce.svg",
+    "status": "Available"
+  },
+  {
+    "id": "tomatoes",
+    "name": "Tomatoes",
+    "description": "Flavorful greenhouse tomatoes optimized for freshness and traceable quality.",
+    "image": "/images/product-tomatoes.svg",
+    "status": "Coming Soon"
+  },
+  {
+    "id": "habanero-pepper",
+    "name": "Habanero Pepper",
+    "description": "Premium peppers cultivated with data-driven nutrient and climate control.",
+    "image": "/images/product-habanero.svg",
+    "status": "Coming Soon"
+  }
+]

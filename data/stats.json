@@ -1,0 +1,26 @@
+[
+  {
+    "id": "plants-growing",
+    "label": "Plants Growing",
+    "value": 12000,
+    "suffix": "+"
+  },
+  {
+    "id": "water-saved",
+    "label": "Water Saved",
+    "value": 90,
+    "suffix": "%"
+  },
+  {
+    "id": "growing-systems",
+    "label": "Growing Systems",
+    "value": 24,
+    "suffix": "+"
+  },
+  {
+    "id": "future-expansion",
+    "label": "Future Expansion",
+    "value": 3,
+    "suffix": " Sites"
+  }
+]
