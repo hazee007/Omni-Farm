@@ -20,7 +20,7 @@ export default function AboutSection() {
               }}
             >
               <Image
-                src="/images/about-greenhouse.svg"
+                src="/images/lettuce_2.jpg"
                 alt="Modern hydroponic greenhouse"
                 fill
                 sizes="(max-width: 900px) 100vw, 50vw"

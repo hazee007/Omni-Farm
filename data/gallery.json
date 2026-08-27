@@ -2,37 +2,31 @@
   {
     "id": "seedlings",
     "title": "Seedlings",
-    "image": "/images/gallery-seedlings.svg",
-    "alt": "Hydroponic seedlings in nursery trays"
+    "image": "/images/lettuce_seedling.jpg",
+    "alt": "Young hydroponic lettuce seedlings"
   },
   {
-    "id": "nft-system",
-    "title": "NFT System",
-    "image": "/images/gallery-nft.svg",
-    "alt": "NFT hydroponic channels in a greenhouse"
+    "id": "growth-stage",
+    "title": "Growth Stage",
+    "image": "/images/lettuce_specie_2.jpg",
+    "alt": "Hydroponic lettuce growing in controlled conditions"
   },
   {
-    "id": "tomatoes",
-    "title": "Tomatoes",
-    "image": "/images/gallery-tomatoes.svg",
-    "alt": "Hydroponic tomato plants growing on trellises"
+    "id": "fresh-lettuce",
+    "title": "Fresh Lettuce",
+    "image": "/images/lettuce_1.jpg",
+    "alt": "Fresh harvested hydroponic lettuce"
   },
   {
-    "id": "lettuce",
-    "title": "Lettuce",
-    "image": "/images/gallery-lettuce.svg",
-    "alt": "Rows of fresh hydroponic lettuce"
+    "id": "crop-rows",
+    "title": "Crop Rows",
+    "image": "/images/lettuce_2.jpg",
+    "alt": "Rows of hydroponic lettuce growing in the farm"
   },
   {
-    "id": "hydroponic-setup",
-    "title": "Hydroponic Setup",
-    "image": "/images/gallery-setup.svg",
-    "alt": "Modern hydroponic cultivation setup"
-  },
-  {
-    "id": "harvest",
-    "title": "Harvest",
-    "image": "/images/gallery-harvest.svg",
-    "alt": "Fresh produce harvested from hydroponic farm"
+    "id": "harvest-ready",
+    "title": "Harvest Ready",
+    "image": "/images/lettuce_3.jpg",
+    "alt": "Harvest-ready hydroponic lettuce heads"
   }
 ]
