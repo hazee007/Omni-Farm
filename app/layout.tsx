@@ -46,7 +46,7 @@ const organizationSchema = {
   "@type": "Organization",
   name: siteConfig.name,
   url: siteConfig.url,
-  logo: `${siteConfig.url}/images/logo-mark.svg`,
+  logo: `${siteConfig.url}/images/omni-logo.png`,
   sameAs: [
     "https://instagram.com/omnifarmhouse",
     "https://linkedin.com/company/omnifarmhouse",

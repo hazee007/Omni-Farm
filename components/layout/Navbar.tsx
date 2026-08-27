@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import {
@@ -11,7 +12,6 @@ import {
   IconButton,
   Stack,
   Toolbar,
-  Typography,
 } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 import CloseIcon from "@mui/icons-material/Close";
@@ -43,14 +43,27 @@ export default function Navbar() {
           disableGutters
           sx={{ justifyContent: "space-between", minHeight: 74 }}
         >
-          <Typography
+          <Box
             component={Link}
             href="/"
-            variant="h6"
-            sx={{ color: "inherit", textDecoration: "none", fontWeight: 700 }}
+            sx={{
+              display: "flex",
+              alignItems: "center",
+              textDecoration: "none",
+              color: "inherit",
+              minWidth: 180,
+            }}
+            aria-label="OmniFarmhouse home"
           >
-            OmniFarmhouse
-          </Typography>
+            <Image
+              src="/images/omni-logo.png"
+              alt="OmniFarmhouse logo"
+              width={220}
+              height={62}
+              priority
+              style={{ objectFit: "contain" }}
+            />
+          </Box>
 
           <Stack
             direction="row"

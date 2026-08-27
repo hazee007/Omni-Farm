@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import {
   Box,
@@ -28,7 +29,15 @@ export default function Footer() {
       <Container maxWidth="lg">
         <Grid container spacing={4}>
           <Grid size={{ xs: 12, md: 4 }}>
-            <Typography variant="h6">OmniFarmhouse</Typography>
+            <Box sx={{ mb: 1.5 }}>
+              <Image
+                src="/images/omni-logo.png"
+                alt="OmniFarmhouse logo"
+                width={210}
+                height={60}
+                style={{ objectFit: "contain" }}
+              />
+            </Box>
             <Typography
               variant="body2"
               sx={{ mt: 1.5, color: "rgba(255,255,255,0.78)" }}
